@@ -1,11 +1,11 @@
-```swift
+```java
 val alefaraci = Person(
   name = "Alessio Faraci"
   age = 28,
   nationality = "Italian"'
   location = "Clermont-Ferrand, France",
   languages = setOf("it", "en"),
-  skills = setof("python"),
+  skills = setOf("python"),
 )
 
 alefaraci.hi()

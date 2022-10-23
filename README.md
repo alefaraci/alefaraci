@@ -17,7 +17,7 @@ class alefaraci {
 alefaraci.welcome()
 ```
 
-- 👋  Hi, I’m @alefaraci
+- 👋   Hi, I’m @alefaraci
 - 🤖  I'm a Researcher and Engineer
 - 🌱  I’m currently learning Gaussian processes
 - 👀  I’m interested in Machine Learning

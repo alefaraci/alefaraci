@@ -14,7 +14,8 @@ class alefaraci {
   }
 }
 
-alefaraci.welcome()
+let me = alefaraci()
+me.welcome()
 ```
 
 - 👋  Hi, I’m @alefaraci

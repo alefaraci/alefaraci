@@ -1,4 +1,4 @@
-```java
+```kotlin
 val alefaraci = Person(
   name = "Alessio Faraci"
   age = 28,

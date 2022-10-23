@@ -8,15 +8,13 @@ class alefaraci {
   var languages = "it, en"
   var skills = "python"
   
-  // method to welcome
+  // host method
   func welcome() {
     print("Hey! Nice to see vou there 👋😊")
   }
 }
 
 alefaraci.welcome()
-
-// Prints out: Hey! Nice to see vou there 👋😊
 ```
 
 - 👋  Hi, I’m @alefaraci

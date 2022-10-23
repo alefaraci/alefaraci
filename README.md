@@ -1,14 +1,20 @@
 ```swift
-class alefaraci = Person{
+class alefaraci {
+
   var name = "Alessio Faraci"
   var age = 28
   var nationality = "Italian"
   var location = "Clermont-Ferrand, France"
   var languages = "it, en"
   var skills = "python"
+  
+  // method to welcome
+  func welcome() {
+    print("Hey! Nice to see vou there 👋😊")
+  }
 }
 
-alefaraci.hi()
+alefaraci.welcome()
 
 // Prints out: Hey! Nice to see vou there 👋😊
 ```

@@ -1,3 +1,18 @@
+```swift
+val alefaraci = Person(
+  name = "Alessio Faraci"
+  age = 28,
+  nationality = "Italian"'
+  location = "Clermont-Ferrand, France",
+  languages = setOf("it", "en"),
+  skills = setof("python"),
+)
+
+alefaraci.hi()
+
+// Prints out: Hey! Nice to see vou there 👋😊
+```
+
 - 👋  Hi, I’m @alefaraci
 - 🤖  I'm a Researcher and Engineer
 - 🌱  I’m currently learning Gaussian processes

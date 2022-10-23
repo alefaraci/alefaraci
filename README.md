@@ -1,12 +1,12 @@
-```kotlin
-val alefaraci = Person(
-  name = "Alessio Faraci"
-  age = 28,
-  nationality = "Italian"'
-  location = "Clermont-Ferrand, France",
-  languages = setOf("it", "en"),
-  skills = setOf("python"),
-)
+```swift
+class alefaraci = Person{
+  var name = "Alessio Faraci"
+  var age = 28
+  var nationality = "Italian"
+  var location = "Clermont-Ferrand, France"
+  var languages = "it, en"
+  var skills = "python"
+}
 
 alefaraci.hi()
 

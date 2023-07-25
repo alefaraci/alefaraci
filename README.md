@@ -6,11 +6,11 @@ class alefaraci {
   var nationality = "Italian"
   var location = "Clermont-Ferrand, France"
   var languages = "it, en"
-  var skills = "python"
+  var skills = "python, go, swift"
   
   // host method
   func welcome() {
-    print("Hey! Nice to see vou there 👋😊")
+    print("Hey! Nice to see you there 👋😊")
   }
 }
 

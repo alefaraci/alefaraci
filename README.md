@@ -15,11 +15,11 @@ if __name__ == "__main__":
     me.welcome()
 ```
 
-- 👋 Hi, I’m @alefaraci
-- 🤖 I'm a Researcher and Engineer
-- 👀 I’m interested in Machine Learning
-- 🌒 On the dark side of the moon, I'm a drummer and a volleyball player
-- 📚 Addicted to Russian literature
+👋 Hi, I’m @alefaraci
+🤖 I'm a Researcher and Engineer
+👀 I’m interested in Machine Learning
+🌒 On the dark side of the moon, I'm a drummer and a volleyball player
+📚 Addicted to Russian literature
 
 #### 🧪 Research code
 - [**zak-isorak-rbdo**](https://github.com/alefaraci/zak-isorak-rbdo): the PhD's gradient-free adaptive Kriging RBDO algorithms, in Python

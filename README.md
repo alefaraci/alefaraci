@@ -15,7 +15,7 @@ if __name__ == "__main__":
     me.welcome()
 ```
 
-👋 Hi, I’m @alefaraci <br/>
+👋 Hi, I’m [@alefaraci](https://github.com/alefaraci) <br/>
 🤖 I'm a Researcher and Engineer <br/>
 👀 I’m interested in Machine Learning <br/>
 🌒 On the dark side of the moon, I'm a drummer and a volleyball player <br/>

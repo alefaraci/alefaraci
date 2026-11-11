@@ -1,32 +1,39 @@
-```swift
-class alefaraci {
+```python
+class Alessio:
+    role = "Machine learning scientist"
+    focus = ["uncertainty quantification", "Gaussian processes", "reliability-based design"]
+    phd = "Computer Science & Engineering · MSCA fellow, GREYDIENT · 2025"
+    location = "Amsterdam, Netherlands"
+    languages = ["it", "en", "fr"]
+    code = ["python", "matlab", "go", "swift"]
 
-  var name = "Alessio Faraci"
-  var age = 28
-  var nationality = "Italian"
-  var location = "Clermont-Ferrand, France"
-  var languages = "it, en"
-  var skills = "python, go, swift"
-  
-  // host method
-  func welcome() {
-    print("Hey! Nice to see you there 👋😊")
-  }
-}
+    def welcome(self) -> None:
+        print("Hey! Nice to see you there 👋😊")
 
-let me = alefaraci()
-me.welcome()
+if __name__ == "__main__":
+    me = Alessio()
+    me.welcome()
 ```
 
-- 👋  Hi, I’m @alefaraci
-- 🤖  I'm a Researcher and Engineer
-- 🌱  I’m currently learning Gaussian Processes
-- 👀  I’m interested in Machine Learning
-- 🌒  On the dark side of the moon, I'm a drummer and a tennis player
-- 📚  Addicted to Russian literature
+- 👋 Hi, I’m @alefaraci
+- 🤖 I'm a Researcher and Engineer
+- 👀 I’m interested in Machine Learning
+- 🌒 On the dark side of the moon, I'm a drummer and a volleyball player
+- 📚 Addicted to Russian literature
 
+#### 🧪 Research code
+- [**zak-isorak-rbdo**](https://github.com/alefaraci/zak-isorak-rbdo): the PhD's gradient-free adaptive Kriging RBDO algorithms, in Python
+- [**GPhub-kit**](https://github.com/GPhub-dev/GPhub-kit): benchmarks Gaussian process libraries side by side ([gp-hub.dev](https://www.gp-hub.dev))
 
-<!---
-alefaraci/alefaraci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 🛠️ Side projects
+- [**xovi-qmd-extensions**](https://github.com/alefaraci/xovi-qmd-extensions): a suite of `.qmd` mods for reMarkable tablets
+- [**GoSNare**](https://github.com/alefaraci/GoSNare): Go CLI + watch daemon that mirrors a Supernote library into vector PDFs
+- [**ThermoTask**](https://github.com/alefaraci/ThermoTask): prints Apple Calendar events and Reminders as tickets on a thermal printer
+
+#### 🧰 Toolbox
+`Python` `PyTorch` `GPyTorch` `BoTorch` `JAX` `scikit-learn` `polars` `MATLAB / UQLab`
+`Go` `Swift` `Docker` `Linux` `HPC · SLURM`
+
+#### 📫 Elsewhere
+[afaraci.com](https://afaraci.com) · [LinkedIn](https://www.linkedin.com/in/afaraci) ·
+[Google Scholar](https://scholar.google.com/citations?user=Li28GPkAAAAJ) · contact@afaraci.com
